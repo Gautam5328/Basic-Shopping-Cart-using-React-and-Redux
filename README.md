@@ -25,3 +25,5 @@ npm install
 npm start
 ```
 The application will start automatically in your browser on http://localhost:3000
+
+basicshoppingcart.netlify.app
